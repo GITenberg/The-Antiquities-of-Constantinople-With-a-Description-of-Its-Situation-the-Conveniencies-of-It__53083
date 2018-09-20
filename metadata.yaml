@@ -1,0 +1,35 @@
+_repo: The-Antiquities-of-Constantinople-With-a-Description-of-Its-Situation-the-Conveniencies-of-It__53083
+_version: 0.0.1
+alternative_title: De topographia Constantinopoleos. English
+creator:
+  author:
+    agent_name: Gilles, Pierre
+    aliases:
+    - Gilles, Peter
+    - Gyllius, Petrus
+    - Gilles, Petrus
+    birthdate: 1490
+    deathdate: 1555
+    gutenberg_agent_id: '47212'
+    url: http://www.gutenberg.org/2009/agents/47212
+description: ''
+gutenberg_issued: '2016-09-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53083'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Turkey -- Antiquities'
+- !lcc 'DR'
+- !lcsh 'Istanbul (Turkey) -- Antiquities'
+- !lcsh 'Istanbul (Turkey) -- Description and travel'
+- GITenberg
+title: 'The Antiquities of Constantinople
+
+  With a Description of Its Situation, the Conveniencies of Its Port, Its Publick
+  Buildings, the Statuary, Sculpture, Architecture, and Other Curiosities of That
+  City'
+url: http://www.gutenberg.org/ebooks/53083
